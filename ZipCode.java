@@ -2,7 +2,7 @@
 /**
  * Class ZipCode includes constructors, getters, and mutators for Zip code
  * including zip, city, state, longitude, at latitude.
- * 
+ * CHANGE
  * @author  William Shreeve
  * @version April 2017
  */
